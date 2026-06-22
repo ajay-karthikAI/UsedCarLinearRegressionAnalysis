@@ -103,14 +103,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 3. Open `Cars4U.ipynb` and run the cells from top to bottom.
 
-## Recommended Next Steps
-
-- Drop rows with missing `Price` before model fitting.
-- Evaluate the model on the test set with regression metrics.
-- Compare linear regression with other models such as Ridge, Lasso, Random Forest, or Gradient Boosting.
-- Add cross-validation to improve confidence in model performance.
-- Create feature-importance or coefficient interpretation tables for business users.
-- Investigate additional car features such as safety options, infotainment, sunroof, accident history, and service history.
 
 ## Project Status
 
